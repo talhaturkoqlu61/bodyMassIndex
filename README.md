@@ -1,0 +1,2 @@
+# bodyMassIndex
+ vücut kitle endeksi
